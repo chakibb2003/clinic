@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { HeartPulse, Stethoscope, Baby, Microscope, Activity, Smile, ChevronDown, ChevronUp } from 'lucide-react';
+import { HeartPulse, Stethoscope, Baby, Microscope, Activity, Smile, ChevronUp } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
 const Services = () => {
